@@ -10,7 +10,7 @@ Second Project of Case Western Reserve University's Cybersecurity Boot Camp.
 
 **Gateway**: 192.168.1.1
 
-**Machines**
+### Machines
 
 Windows Host
   - OS: Windows
