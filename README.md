@@ -5,10 +5,13 @@ Second Project of Case Western Reserve University's Cybersecurity Boot Camp.
 
 ## Network Topology
 **Network Address Range**: 192.168.1.1-255
+
 **Netmask**: 192.168.0/24
+
 **Gateway**: 192.168.1.1
 
 **Machines**
+
 Windows Host
   - OS: Windows
   - IPv4:  192.168.1.1
